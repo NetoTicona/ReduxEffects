@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "efectos"
+  "defaultProject": "efectos",
+  "cli": {
+    "analytics": false
+  }
 }
